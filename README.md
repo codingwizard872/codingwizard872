@@ -2,7 +2,7 @@
   Welcome to visit my github
 </h1>
 <h2 align="center">
-  I am a Full Stack & Blockchain Developer & Smart Contract Auditor.
+  I am a Full Stack Developer & AI Engineer.
 </h2>
 <div align="center">
   <img src="https://github.com/codingwizard872/codingwizard872/blob/main/divider1.png" alt="divider"/>
@@ -59,31 +59,6 @@
         <img src="https://img.shields.io/badge/NoSQL-blue" /> 
         <img src="https://img.shields.io/badge/MongoDB-blue" /> 
         <img src="https://img.shields.io/badge/PostgreSQL-blue" /> 
-      </td>
-    </tr>
-  </table>
-  
- <table>
-    <tr>
-      <td valign="center" width="100px"><b>Blockchain<b></td>
-      <td valign="center" width="100px"><b>Audit<b></td>
-    </tr>
-    <tr>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Web3.js-blue" /> 
-        <img src="https://img.shields.io/badge/Solidity-blue" /> 
-        <img src="https://img.shields.io/badge/Polkadot-blue" /> 
-        <img src="https://img.shields.io/badge/Solana-blue" /> 
-        <img src="https://img.shields.io/badge/Golang-blue" /> 
-        <img src="https://img.shields.io/badge/Rust-blue" /> 
-        <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
-        <img src="https://img.shields.io/badge/Bitcoin-blue" />
-      </td>
-     <td valign="center" align="center" width="300px">
-       <img src="https://img.shields.io/badge/Code4rena-blue" /> 
-       <img src="https://img.shields.io/badge/Sherlock-blue" /> 
-       <img src="https://img.shields.io/badge/Hats-blue" /> 
-       <img src="https://img.shields.io/badge/Cantina-blue" />
       </td>
     </tr>
   </table>
